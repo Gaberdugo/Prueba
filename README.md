@@ -2,7 +2,8 @@
 
 ## Autors:
 Gustavo Berdugo <br/>
-Adolfo Velasquez
+Adolfo Velasquez<br/>
+Ricardo Parrado
 
 ## Description
 Este repo es un ejemplo para aprender a usar git y github <br/>
